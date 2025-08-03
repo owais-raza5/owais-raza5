@@ -23,10 +23,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,styledcomponents,react,nextjs,redux,firebase,git,powershell,vercel,netlify,react)](https://skillicons.dev)
 
-<h2 align="left">🏆My Github stats and Trophies:</h2>
-
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=owais-raza-abdul-samad&show_icons=true&locale=en&layout=compact" alt="owais-raza-abdul-samad" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=owais-raza-abdul-samad&show_icons=true&locale=en" alt="owais-raza-abdul-samad" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owais-raza-abdul-samad&" alt="owais-raza-abdul-samad" /></p>
-
 <h3 align="center">Checkout the repositories below 👇</h3>
